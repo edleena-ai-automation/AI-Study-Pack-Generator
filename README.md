@@ -1,1 +1,0 @@
-# AI-Study-Pack-Generator
